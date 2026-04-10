@@ -8,9 +8,9 @@ Tiene para asignale una fecha y darle una prioridad
 
 Tiene ademas varios metodos para utilizar esta API
 
-POST para crear tareas
-PUT (/{id}) para modificar tareas
-GET para llamar todas las tareas 
-GET (/{id}) para llamar la tarea por ID
-GET (/tarea-especifica/{nombreTarea}) para llamar la tarea por nombre
-DELETE (/{id}) para eliminar la tarea
+- POST para crear tareas.
+- PUT (/{id}) para modificar tareas.
+- GET para llamar todas las tareas.
+- GET (/{id}) para llamar la tarea por ID.
+- GET (/tarea-especifica/{nombreTarea}) para llamar la tarea por nombre.
+- DELETE (/{id}) para eliminar la tarea.
